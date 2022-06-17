@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "qJ51QXIkrP5JB9g2cKqcHDV2z0u8icf8xPhidGjwd7tTmfGhgc5gGPluY5tEBJzjr7Kg7dGl4KpNSeZ+QzXhFQ==",
+  "success": true,
+  "projectFilePath": "/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/weather-app.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlywest/.nuget/packages/netlint/1.1.2/netlint.1.1.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NetLint 1.1.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NetLint",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

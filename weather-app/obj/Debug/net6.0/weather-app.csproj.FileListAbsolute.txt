@@ -1,0 +1,17 @@
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/bin/Debug/net6.0/weather-app
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/bin/Debug/net6.0/weather-app.deps.json
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/bin/Debug/net6.0/weather-app.runtimeconfig.json
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/bin/Debug/net6.0/weather-app.dll
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/bin/Debug/net6.0/weather-app.pdb
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/obj/Debug/net6.0/weather-app.csproj.AssemblyReference.cache
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/obj/Debug/net6.0/weather-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/obj/Debug/net6.0/weather-app.AssemblyInfoInputs.cache
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/obj/Debug/net6.0/weather-app.AssemblyInfo.cs
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/obj/Debug/net6.0/weather-app.csproj.CoreCompileInputs.cache
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/obj/Debug/net6.0/weather-app.dll
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/obj/Debug/net6.0/refint/weather-app.dll
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/obj/Debug/net6.0/weather-app.pdb
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/obj/Debug/net6.0/weather-app.genruntimeconfig.cache
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/obj/Debug/net6.0/ref/weather-app.dll
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/bin/Debug/net6.0/netlint.dll
+/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/obj/Debug/net6.0/weather-app.csproj.CopyComplete

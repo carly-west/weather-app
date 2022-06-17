@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "weather-app/1.0.0": {
+        "dependencies": {
+          "NetLint": "1.1.2"
+        },
+        "runtime": {
+          "weather-app.dll": {}
+        }
+      },
+      "NetLint/1.1.2": {
+        "runtime": {
+          "lib/netlint.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "weather-app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetLint/1.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-31gif0HrP+Tce7IG5WT6pz+U3OeAB1jx3gSI01BO2ydWtaqurPhVB5iARJ1YHys+iEgDwILghEXNjwkrCYZmLg==",
+      "path": "netlint/1.1.2",
+      "hashPath": "netlint.1.1.2.nupkg.sha512"
+    }
+  }
+}

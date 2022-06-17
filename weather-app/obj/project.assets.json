@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "NetLint/1.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/netlint.dll": {}
+        },
+        "runtime": {
+          "lib/netlint.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetLint/1.1.2": {
+      "sha512": "31gif0HrP+Tce7IG5WT6pz+U3OeAB1jx3gSI01BO2ydWtaqurPhVB5iARJ1YHys+iEgDwILghEXNjwkrCYZmLg==",
+      "type": "package",
+      "path": "netlint/1.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netlint.XML",
+        "lib/netlint.dll",
+        "lib/netlint.pdb",
+        "netlint.1.1.2.nupkg.sha512",
+        "netlint.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "NetLint >= 1.1.2"
+    ]
+  },
+  "packageFolders": {
+    "/Users/carlywest/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/weather-app.csproj",
+      "projectName": "weather-app",
+      "projectPath": "/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/weather-app.csproj",
+      "packagesPath": "/Users/carlywest/.nuget/packages/",
+      "outputPath": "/Users/carlywest/Desktop/Spring 2022/CODE/weather-app/weather-app/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/carlywest/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "NetLint": {
+            "target": "Package",
+            "version": "[1.1.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NetLint 1.1.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NetLint",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
