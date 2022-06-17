@@ -93,8 +93,7 @@ namespace CalculatorApp
                     }
 
           };
-            Console.WriteLine("Hello World");
-
+            // Print menu
             Console.WriteLine("Welcome to the Weather App! Input any other letter or number to exit.");
 
             var continueApp = true;
@@ -110,7 +109,8 @@ namespace CalculatorApp
               
                 var dayChoiceNum = Console.ReadLine();
                 string dayChoice = "Mon";
-
+                
+                // Set menu choice to word
                 switch(dayChoiceNum)
                 {
                     case "1":
@@ -140,6 +140,7 @@ namespace CalculatorApp
                 }
 
                 if (continueApp == true) {
+                    // Continue menu
                     Console.WriteLine("What would you like to learn about?");
                     Console.WriteLine("1- High");
                     Console.WriteLine("2- Low");
@@ -172,7 +173,7 @@ namespace CalculatorApp
                             break;
                     }
 
-
+                    // print out choices
                     foreach (KeyValuePair<string, Dictionary<string, string>> day in weatherDictionary)
                     {
              
